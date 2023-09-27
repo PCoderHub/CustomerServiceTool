@@ -1,0 +1,19 @@
+.card {
+    margin: 10px 30%;
+    padding: 10px;
+}
+
+h4 {
+    text-align: center;
+    color: chocolate;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.field {
+    margin: 20px;
+}

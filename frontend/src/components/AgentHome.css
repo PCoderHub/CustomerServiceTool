@@ -1,0 +1,12 @@
+h1 {
+    text-align: center;
+    color: chocolate;
+}
+
+.cards {
+    margin: 10px 30%;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
